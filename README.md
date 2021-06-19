@@ -25,22 +25,22 @@ All RNA-seq reads were aligned using assembly [TaeGut 3.2.4]: release 98 (which 
 
 Below are QC results obtained using [MultiQC tools] of the [STAR] aligned reads where each line represents one sample out of 144 total:
 
-![Read Counts](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/readcounts.png)
+![Read Counts](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/readcounts.png?raw=true)
 Read counts: Percentage of read counts that are unique (blue) or duplicated (grey). 
 
-![Read Assignment](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/readassignment.png)
+![Read Assignment](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/readassignment.png?raw=true)
 Read assignment: Percentage of reads that were assigned to annotated regions (blue), were un-assigned (grey) or were un-assigned due to ambiguity. 
 
-![Loci Mapping](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/locimapping.png)
+![Loci Mapping](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/locimapping.png?raw=true)
 Loci mapping: Percentage of reads that were uniquely mapped (dark blue), mapped to multiple loci (light blue), mapped to too many loci to be useful (orange), unmapped due to read length (red) or unmapped for other reasons (dark burgundy). 
 
-![Phred Scores per Base](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/basephred.png)
+![Phred Scores per Base](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/basephred.png?raw=true)
 Phred scores per base: Phred scores across each base position in a read. Green is very good, orange is acceptable, and red is poor. 
 
-![Phred Scores per Read](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/readphred.png)
+![Phred Scores per Read](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/readphred.png?raw=true)
 Phred scores per read: The number of reads with the assigned Phred scores per read. Green is very good, orange is acceptable, and red is poor. 
 
-!["N" Content per Read](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/ncontent.png)
+!["N" Content per Read](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/ncontent.png?raw=true)
 "N" content per read: The percentage of N's (ambiguous bases) called at each position.  
 
 &nbsp;
