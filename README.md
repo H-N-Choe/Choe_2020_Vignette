@@ -71,7 +71,7 @@ If there are any questions, contact [Ha Na Choe, PhD] or [Erich Jarvis, PhD].
 
 
 
-   ["Vignette_materials"]: <https://github.com/Neurogenetics-Jarvis/Choe_2020_Vignette/Vignette_materials/>
+   ["Vignette_materials"]: <https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/Vignette_materials>
    [Choe et al. 2021]: <https://doi.org/10.1016/j.yhbeh.2020.104911>
    [TaeGut 3.2.4]: <https://sep2019.archive.ensembl.org/Taeniopygia_guttata/Info/Index>
    [bTaeGut1_v1.p]: <https://uswest.ensembl.org/Taeniopygia_guttata/Info/Index?db=core>
