@@ -21,6 +21,7 @@ Additional files have been provided in the folder ["Vignette_materials"] to run 
 
 &nbsp;
 &nbsp;
+
 All RNA-seq reads were aligned using assembly [TaeGut 3.2.4]: release 98 (which now obsolete and has been replaced by [bTaeGut1_v1.p]: release 102).
 
 Below are QC results obtained using [MultiQC tools] of the [STAR] aligned reads where each line represents one sample out of 144 total:
@@ -40,7 +41,7 @@ Read assignment: Percentage of reads that were assigned to annotated regions (bl
 &nbsp;
 &nbsp;
 
-Loci mapping: Percentage of reads that were uniquely mapped (dark blue), mapped to multiple loci (light blue), mapped to too many loci to be useful (orange), unmapped due to read length (red) or unmapped for other reasons (dark burgundy). 
+Loci mapping: Percentage of reads that were uniquely mapped (dark blue), mapped to multiple loci (light blue), mapped to too many loci to be useful (orange), unmapped due to read length (red) or unmapped for other reasons (dark burgundy). &nbsp;
 <img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/locimapping.png'>
 
 &nbsp;
