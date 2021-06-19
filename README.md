@@ -35,7 +35,7 @@ Read counts: Percentage of read counts that are unique (blue) or duplicated (gre
 &nbsp;
 &nbsp;
 
-Read assignment: Percentage of reads that were assigned to annotated regions (blue), were un-assigned (grey) or were un-assigned due to ambiguity. 
+Read assignment: Percentage of reads that were assigned to annotated regions (blue), were un-assigned (grey) or were un-assigned due to ambiguity. &nbsp;
 <img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/readassignment.png'>
 
 &nbsp;
