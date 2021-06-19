@@ -29,7 +29,7 @@ Below are QC results obtained using [MultiQC tools] of the [STAR] aligned reads 
 &nbsp;
 &nbsp;
 
-Read counts: Percentage of read counts that are unique (blue) or duplicated (grey). 
+Read counts: Percentage of read counts that are unique (blue) or duplicated (grey).  
 <img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/readcounts.png'>
 
 &nbsp;
@@ -41,26 +41,25 @@ Read assignment: Percentage of reads that were assigned to annotated regions (bl
 &nbsp;
 &nbsp;
 
-Loci mapping: Percentage of reads that were uniquely mapped (dark blue), mapped to multiple loci (light blue), mapped to too many loci to be useful (orange), unmapped due to read length (red) or unmapped for other reasons (dark burgundy). 
-&nbsp;
+Loci mapping: Percentage of reads that were uniquely mapped (dark blue), mapped to multiple loci (light blue), mapped to too many loci to be useful (orange), unmapped due to read length (red) or unmapped for other reasons (dark burgundy).  
 <img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/locimapping.png'>
 
 &nbsp;
 &nbsp;
 
-Phred scores per base: Phred scores across each base position in a read. Green is very good, orange is acceptable, and red is poor. 
+Phred scores per base: Phred scores across each base position in a read. Green is very good, orange is acceptable, and red is poor.  
 <img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/basephred.png'>
 
 &nbsp;
 &nbsp;
 
-Phred scores per read: The number of reads with the assigned Phred scores per read. Green is very good, orange is acceptable, and red is poor.
+Phred scores per read: The number of reads with the assigned Phred scores per read. Green is very good, orange is acceptable, and red is poor.  
 <img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/readphred.png'>
  
- &nbsp;
+&nbsp;
 &nbsp;
 
-"N" content per read: The percentage of N's (ambiguous bases) called at each position.
+"N" content per read: The percentage of N's (ambiguous bases) called at each position.  
 <img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/ncontent.png'>
   
 
