@@ -25,7 +25,7 @@ All RNA-seq reads were aligned using assembly [TaeGut 3.2.4]: release 98 (which 
 
 Below are QC results obtained using [MultiQC tools] of the [STAR] aligned reads where each line represents one sample out of 144 total:
 
-![Read Counts](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/readcounts.png?raw=true)
+<img src='https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/readcounts.png?raw=true'>
 Read counts: Percentage of read counts that are unique (blue) or duplicated (grey). 
 
 ![Read Assignment](https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/images/readassignment.png?raw=true)
