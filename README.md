@@ -41,7 +41,8 @@ Read assignment: Percentage of reads that were assigned to annotated regions (bl
 &nbsp;
 &nbsp;
 
-Loci mapping: Percentage of reads that were uniquely mapped (dark blue), mapped to multiple loci (light blue), mapped to too many loci to be useful (orange), unmapped due to read length (red) or unmapped for other reasons (dark burgundy). &nbsp;
+Loci mapping: Percentage of reads that were uniquely mapped (dark blue), mapped to multiple loci (light blue), mapped to too many loci to be useful (orange), unmapped due to read length (red) or unmapped for other reasons (dark burgundy). 
+&nbsp;
 <img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/locimapping.png'>
 
 &nbsp;
