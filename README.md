@@ -37,15 +37,15 @@ Read assignment: Percentage of reads that were assigned to annotated regions (bl
 Loci mapping: Percentage of reads that were uniquely mapped (dark blue), mapped to multiple loci (light blue), mapped to too many loci to be useful (orange), unmapped due to read length (red) or unmapped for other reasons (dark burgundy). 
 
 
-<img src='https://github.com/H-N-Choe/Choe_2020_Vignette/tree/blob/images/basephred.png'>
+<img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/basephred.png'>
 Phred scores per base: Phred scores across each base position in a read. Green is very good, orange is acceptable, and red is poor. 
 
 
-<img src='https://github.com/H-N-Choe/Choe_2020_Vignette/tree/blob/images/readphred.png'>
+<img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/readphred.png'>
 Phred scores per read: The number of reads with the assigned Phred scores per read. Green is very good, orange is acceptable, and red is poor. 
 
 
-<img src='https://github.com/H-N-Choe/Choe_2020_Vignette/tree/blob/images/ncontent.png'>
+<img src='https://github.com/H-N-Choe/Choe_2020_Vignette/blob/main/images/ncontent.png'>
 "N" content per read: The percentage of N's (ambiguous bases) called at each position.  
 
 &nbsp;
