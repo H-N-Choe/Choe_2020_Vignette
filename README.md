@@ -22,7 +22,7 @@ Additional files have been provided in the folder ["Vignette_materials"] to run 
 &nbsp;
 &nbsp;
 
-All RNA-seq reads were aligned using assembly [TaeGut 3.2.4]: release 98 (which now obsolete and has been replaced by [bTaeGut1_v1.p]: release 102).
+All RNA-seq reads (available as raw reads on NCBI under SRA accession: [PRJNA698257]) were aligned using assembly [TaeGut 3.2.4]: release 98 (which now obsolete and has been replaced by [bTaeGut1_v1.p]: release 102).
 
 Below are QC results obtained using [MultiQC tools] of the [STAR] aligned reads where each line represents one sample out of 144 total:
 
@@ -74,6 +74,7 @@ If there are any questions, contact [Ha Na Choe, PhD] or [Erich Jarvis, PhD].
    ["Vignette_materials"]: <https://github.com/H-N-Choe/Choe_2020_Vignette/tree/main/Vignette_materials>
    [Choe et al. 2021]: <https://doi.org/10.1016/j.yhbeh.2020.104911>
    [TaeGut 3.2.4]: <https://sep2019.archive.ensembl.org/Taeniopygia_guttata/Info/Index>
+   [PRJNA698257]: <https://www.ncbi.nlm.nih.gov/bioproject/PRJNA698257/>
    [bTaeGut1_v1.p]: <https://uswest.ensembl.org/Taeniopygia_guttata/Info/Index?db=core>
    [STAR]: <https://github.com/alexdobin/STAR>
    [Kallisto]: <https://pachterlab.github.io/kallisto/about>
