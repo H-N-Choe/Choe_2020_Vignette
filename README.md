@@ -81,5 +81,5 @@ If there are any questions, contact [Ha Na Choe, PhD] or [Erich Jarvis, PhD].
    [MultiQC tools]: <https://multiqc.info/>
    [R]: <https://cran.r-project.org/>
    [RStudio]: <https://rstudio.com/>
-   [Ha Na Choe, PhD]: <mailto:ha.choe@duke.edu>
+   [Ha Na Choe, PhD]: <mailto:ha.choe@alumni.duke.edu>
    [Erich Jarvis, PhD]: <mailto:ejarvis@rockefeller.edu>
